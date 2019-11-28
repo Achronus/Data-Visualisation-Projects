@@ -10,7 +10,7 @@ A repository specific to my data visualisation projects. These include the use o
 All of my Tableau projects can be found on my Tableau profile [here](https://public.tableau.com/profile/ryan.partridge#!/) and the stories behind them can be found through the links in the project listing.
 
 Project list is as follows:
-  * [Annual Bonus Analysis](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Annual-Bonus-Analysis)
+  * Annual Bonus Analysis - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Annual-Bonus-Analysis) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/1_annual-bonus-analysis/AnnualBonusAnalysis)
   * [Terror Attacks Heatmap](#terror-attacks-heatmap) - _In Development!_
 
 
