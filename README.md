@@ -12,6 +12,7 @@ All of my Tableau projects can be found on my Tableau profile [here](https://pub
 Project list is as follows:
   * Annual Bonus Analysis - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Annual-Bonus-Analysis) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/1_annual-bonus-analysis/AnnualBonusAnalysis)
   * Unemployment in the US - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Unemployment-in-the-US) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/2_unemployment-in-the-us/UnemploymentDashboard)
+  * Amazing Mart EU: Profit Margin - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Amazing-Mart-EU:-Profit-Margin) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/3_profit-margin-for-amazing-mart-eu/ProfitMargin)
   * [Terror Attacks Heatmap](#terror-attacks-heatmap) - _Coming Soon!_
 
 
