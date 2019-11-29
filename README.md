@@ -13,6 +13,7 @@ Project list is as follows:
   * Annual Bonus Analysis - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Annual-Bonus-Analysis) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/1_annual-bonus-analysis/AnnualBonusAnalysis)
   * Unemployment in the US - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Unemployment-in-the-US) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/2_unemployment-in-the-us/UnemploymentDashboard)
   * Amazing Mart EU: Profit Margin - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Amazing-Mart-EU:-Profit-Margin) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/3_profit-margin-for-amazing-mart-eu/ProfitMargin)
+  * UK Bank Customer Insights - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/UK-Bank:-Customer-Insights) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/4_uk-bank-customer-insights/SegmentationInsights)
   * [Terror Attacks Heatmap](#terror-attacks-heatmap) - _Coming Soon!_
 
 
