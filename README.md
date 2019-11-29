@@ -14,8 +14,4 @@ Project list is as follows:
   * Unemployment in the US - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Unemployment-in-the-US) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/2_unemployment-in-the-us/UnemploymentDashboard)
   * Amazing Mart EU: Profit Margin - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/Amazing-Mart-EU:-Profit-Margin) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/3_profit-margin-for-amazing-mart-eu/ProfitMargin)
   * UK Bank Customer Insights - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/UK-Bank:-Customer-Insights) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/4_uk-bank-customer-insights/SegmentationInsights)
-  * [Terror Attacks Heatmap](#terror-attacks-heatmap) - _Coming Soon!_
-
-
-## Terror Attacks Heatmap
-Using the Global Terrorism Database (GTD) from Kaggle, that can be found [here](https://www.kaggle.com/START-UMD/gtd). This data set contains over 180,000 Terrorist Attacks within a time period of: 1970 - 2017, excluding 1993. Using the dataset, I have created a worldwide heatmap to identify the main areas of attacks. 
+  * US City Dry Cleaning Startup - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/US-City-Dry-Cleaning-Startup) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/5_us-city-dry-cleaning-startup/USDryCleaningStartupDashboard)
