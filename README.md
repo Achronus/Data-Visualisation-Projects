@@ -18,7 +18,8 @@ Project list is as follows:
   * US City Dry Cleaning Startup - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/US-City-Dry-Cleaning-Startup) | [Tableau Files](https://public.tableau.com/profile/ryan.partridge#!/vizhome/5_us-city-dry-cleaning-startup/USDryCleaningStartupDashboard)
 
 ## SQL Projects
-All of my SQL projects can be found in this section. These consist of MySQL related databases and the stores behind them can be found through the links in the project listing.
+All of my SQL projects can be found in this section. These consist of MySQL related databases and the stories behind them can be found through the links in the project listing.
 
 Project list is as follows:
   * Spring Cleaning - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/spring_cleaning.sql)
+  * Book Store - _In development!_
