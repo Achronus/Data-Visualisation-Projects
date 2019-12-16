@@ -22,5 +22,5 @@ All of my SQL projects can be found in this section. These consist of MySQL rela
 
 Project list is as follows:
   * Spring Cleaning - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/spring_cleaning.sql)
-  * Book Store - _In development!_
+  * Book Store - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/book_store.sql)
   * Computer Surgery - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/computer_surgery.sql)
