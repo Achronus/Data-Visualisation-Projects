@@ -21,6 +21,7 @@ Project list is as follows:
 All of my SQL projects can be found in this section. These consist of MySQL related databases and the stories behind them can be found through the links in the project listing.
 
 Project list is as follows:
-  * Spring Cleaning - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/spring_cleaning.sql)
-  * Book Store - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/book_store.sql)
-  * Computer Surgery - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/computer_surgery.sql)
+  * Spring Cleaning - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#spring-cleaning) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/spring_cleaning.sql)
+  * Book Store - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#book-store) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/book_store.sql)
+  * Computer Surgery - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#computer-surgery) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/computer_surgery.sql)
+  * TV Reviews - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#tv-reviews) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/tv_reviews.sql)
