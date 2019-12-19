@@ -25,3 +25,4 @@ Project list is as follows:
   * Book Store - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#book-store) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/book_store.sql)
   * Computer Surgery - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#computer-surgery) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/computer_surgery.sql)
   * TV Reviews - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#tv-reviews) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/tv_reviews.sql)
+  * Fake Instagram - [Story](https://github.com/Achronus/Data-Visualisation-Projects/wiki/MySQL-Projects#fake-instagram) | [SQL File](https://github.com/Achronus/Data-Visualisation-Projects/blob/master/sql/fake_ig.sql)
