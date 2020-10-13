@@ -1,10 +1,8 @@
 # Data Visualisation Projects
-A repository specific to my data visualisation projects. These include the use of: Tableau, SQL, Python and R, focusing on different data sets displayed in a clean and visual way. This repository is split into three sections:
+A repository specific to my data visualisation projects. These include the use of: Tableau and SQL focusing on different data sets displayed in a clean and visual way. This repository is split into two sections:
 
 - [Tableau Projects](#tableau-projects)
 - [SQL Projects](#sql-projects)
-- [Python Projects](#python-projects) - _Coming Soon!_
-- [R Projects](#r-projects) - _Coming Soon!_
 
 
 ## Tableau Projects
